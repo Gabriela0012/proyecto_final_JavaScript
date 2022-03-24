@@ -1,0 +1,22 @@
+{
+  "name": "lovely2_arenas",
+  "version": "1.0.0",
+  "description": "proyecto con sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriela0012/LOVELY2_ARENAS.git"
+  },
+  "keywords": [
+    "Sass"
+  ],
+  "author": "GabrielaArenas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabriela0012/LOVELY2_ARENAS/issues"
+  },
+  "homepage": "https://github.com/Gabriela0012/LOVELY2_ARENAS#readme"
+}

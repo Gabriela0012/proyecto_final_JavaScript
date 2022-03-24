@@ -1,0 +1,67 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/fondo.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+
+}
+
+@import "header";
+@import "main";
+@import "sidebar";
+@import "footer";
+
+
+//todos h2
+h2{
+  text-align: center;
+  font-size: 30px;
+  color: rgb(155, 18, 182);
+  font-family: 'Ranga', cursive; 
+  background-color: rgb(230, 208, 240);
+}
+
+//todos h3
+h3{
+  color: rgb(163, 56, 163);
+  font-weight: 500;
+}
+h4{
+  text-align: center;
+  color: rgb(155, 18, 182);
+  font-family: 'Ranga', cursive; 
+  background-color:   white;
+  border: 2px solid;
+}
+.parametros{
+  text-align: center;
+  color: rgb(155, 18, 182);
+  font-family: 'Ranga', cursive; 
+  background-color: white;
+  font-size: 25px;
+  border: 2px solid;
+}
+.elegido{
+  text-align: center;
+  color: black;
+  font-family: 'Ranga', cursive; 
+  background-color: white;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

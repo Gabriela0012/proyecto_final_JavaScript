@@ -1,0 +1,47 @@
+$colorbg: rgb(230, 208, 240);
+$colorf: rgb(155, 18, 182);
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: $colorf;
+    font-size: 15px;
+    font-family: 'Ranga', cursive;
+    background-color: $colorbg;
+    height: 100%;
+    padding-top: 10px;
+    &-img {
+      display: flex;
+      flex-wrap: wrap;
+      list-style: none;
+    }
+    &_redes {
+      width: 50px;
+      height: 50px;
+      padding: 5px;
+    }
+    &-menu {
+      background-color: $colorbg;
+      color: $colorf;
+      font-size: 15px;
+      font-family: 'Ranga', cursive;
+      text-decoration: none;
+    }
+    & > h5{
+      font-size: 22px;
+      color: $colorf;
+      font-family: 'Ranga', cursive; 
+    }
+    &-tarjeta {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      color: $colorf;
+      font-family: 'Ranga', cursive; 
+      background-color: $colorbg;
+    
+    }
+  
+  } 
+  

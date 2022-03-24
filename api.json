@@ -1,0 +1,57 @@
+[
+  {
+      "precio": 1700,
+      "id": 1,
+      "title": "Mini negra",
+      "thumbnailUrl": "../img/mini_negra.jpg"
+  },
+  {
+      "precio": 1500,
+      "id": 2,
+      "title": "Mini",
+      "thumbnailUrl": "../img/mini.jpg"
+  },
+  {
+      "precio": 1800,
+      "id": 3,
+      "title": "Mini gris",
+      "thumbnailUrl": "../img/mini_gris.jpg"
+  },
+  {
+      "precio": 1800,
+      "id": 4,
+      "title": "Short",
+      "thumbnailUrl": "../img/short.jpg"
+  },
+  {
+      "precio": 1900,
+      "id": 5,
+      "title": "short blanco",
+      "thumbnailUrl": "../img/short_blanco.jpg"
+ 
+  },
+  {
+      "precio": 1800,
+      "id": 6,
+      "title": "Short gris",
+      "thumbnailUrl": "../img/short_gris.jpg"
+  },
+  {
+    "precio": 2500,
+    "id": 7,
+    "title": "Short negro",
+    "thumbnailUrl": "../img/short_negro.jpg"
+  },
+  {
+    "precio": 2700,
+    "id": 8,
+    "title": "Jeans ",
+    "thumbnailUrl": "../img/jeans_bota.jpg"
+  },
+  {
+    "precio": 2300,
+    "id": 9,
+    "title": "Jeans mon",
+    "thumbnailUrl": "../img/jeans_mon.jpg"
+  }
+]
