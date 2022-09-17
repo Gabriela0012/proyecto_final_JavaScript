@@ -1,7 +1,7 @@
 # Lovely
 
 Este proyecto es un ecommerce de jeans.
-#Descripción
+# Descripción
 ## Bienvenida
 ![image](https://github.com/Gabriela0012/proyecto_final_JavaScript/blob/main/img/index.gif)
 ## Compra
